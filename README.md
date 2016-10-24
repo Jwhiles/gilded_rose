@@ -39,29 +39,6 @@ legendary item and as such its Quality is 80 and it never alters.
 just open on the browser:
 
 ```
-js/SpecRunner.html
-```
-## Python
-```
-py.test test_gilded_rose.py
+SpecRunner.html
 ```
 
-## Ruby
-```
-gem install rspec
-
-rspec gilded_rose_spec.rb
-```
-
-## Java
-```
-sudo chmod a+x gradlew
-
-./gradlew
-
-./gradlew test
-```
-Open test report/results file on:  
-```
-java/build/reports/tests/classes/com.gildedrose.GildedRoseSpec.html#Gilded Rose
-```
